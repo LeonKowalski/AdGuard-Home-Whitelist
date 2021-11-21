@@ -7,6 +7,10 @@
 
 # TORRENT TRACKERS
 # @@||^$important
+@@||tracker2.christianbro.pw^$important
+@@||tracker.mg64.net^$important
+@@||tracker.kuroy.me^$important
+@@||tracker.ilibr.org^$important
 @@||tracker.vanitycore.co^$important
 @@||retracker.bashtel.ru^$important
 @@||tracker.tfile.me^$important
