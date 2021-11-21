@@ -6,7 +6,13 @@
 #   :v/tracker/normal ddGp
 
 # TORRENT TRACKERS
-
+# @@||^$important
+@@||tracker.vanitycore.co^$important
+@@||retracker.bashtel.ru^$important
+@@||tracker.tfile.me^$important
+@@||retracker.mgts.by^$important
+@@||retracker.spark-rostov.ru^$important
+@@||tracker.dutchtracking.com^$important
 @@||tracker.ex.ua^$important
 @@||tracker.coalition.space^$important
 @@||tracker-cdn.moeking.me^$important
