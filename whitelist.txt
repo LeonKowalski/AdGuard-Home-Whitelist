@@ -96,7 +96,7 @@
 @@||tracker.zerobytes.xyz^$important
 
 
-
+@@||wikitravel.org^$important
 @@||movies.zsw.ca^$important
 @@||nagios.tks.sumy.ua^$important
 @@||bioquantum.co.za^$important
