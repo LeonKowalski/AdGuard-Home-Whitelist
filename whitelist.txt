@@ -7,6 +7,9 @@
 
 # TORRENT TRACKERS
 # @@||^$important
+@@||tracker.cypherpunks.ru^$important
+@@||tracker4.piratux.com^$important
+@@||tracker.eddie4.nl^$important
 @@||tracker2.christianbro.pw^$important
 @@||tracker.mg64.net^$important
 @@||tracker.kuroy.me^$important
