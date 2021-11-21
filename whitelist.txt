@@ -183,6 +183,7 @@
 @@||p2p.arenabg.ch^$important
 @@||p4p.arenabg.ch^$important
 @@||jmacs-m.lazada.co.th^$important
+@@||tops.co.th^$important
 @@||checkout-m.lazada.co.th^$important
 @@||my-m.lazada.co.th^$important
 @@||filebroker-cdn.lazada.co.th^$important
