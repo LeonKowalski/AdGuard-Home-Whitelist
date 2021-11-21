@@ -227,6 +227,7 @@
 @@||camera.lei001.com^$important
 @@||tr.cili001.com^$important
 @@||johnrosen1.com^$important
+@@||polderke.com^$important
 @@||r2---sn-w5nuxa-2tm6.gvt1.com^$important
 @@||r5---sn-w5nuxa-2tm6.gvt1.com^$important
 @@||r6---sn-w5nuxa-2tm6.gvt1.com^$important
