@@ -1,3 +1,4 @@
+# Use following command in vim to get them on top of document
 # Step 1) Sort lines by the right most characters:
 #   %!rev | sort | rev
 
@@ -64,7 +65,7 @@
 @@||tracker.edoardocolombo.eu^$important
 @@||tracker.calculate.ru^$important
 @@||tracker.tvunderground.org.ru^$important
-||retracker.lanta-net.ru^$important
+@@||retracker.lanta-net.ru^$important
 @@||retracker.joxnet.ru^$important
 @@||retracker.netbynet.ru^$important
 @@||retracker.krs-ix.ru^$important
@@ -505,8 +506,6 @@
 @@||bt2.54new.com^$important
 @@||aseannow.com^$important
 @@||saunagrow.com^$important
-||secure.netflix.com^$important
-||api-global.netflix.com^$important
 @@||www.phoronix.com^$important
 @@||telemetry.dropbox.com^$important
 @@||profile.accounts.firefox.com^$important
@@ -607,4 +606,3 @@
 @@||vibe.community^$important
 @@||t.overflow.biz^$important
 @@||bt2.3kb.xyz^$important
-# Use following command in vim to get them on top of document
