@@ -95,7 +95,7 @@
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
-@@||pubmed.ncbi.nlm.nih.gov^$important
+@@||ncbi.nlm.nih.gov^$important
 @@||wikitravel.org^$important
 @@||movies.zsw.ca^$important
 @@||nagios.tks.sumy.ua^$important
