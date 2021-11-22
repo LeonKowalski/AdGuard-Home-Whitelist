@@ -116,8 +116,7 @@
 @@||images.vrt.be^$important
 @@||www.vrt.be^$important
 @@||b-fast.be^$important
-@@||api.ehealth.fgov.be^$important
-@@||www.ehealth.fgov.be^$important
+@@||ehealth.fgov.be^$important
 @@||h4.trakx.nibba.trade^$important
 @@||fe.dealclub.de^$important
 @@||mail.realliferpg.de^$important
