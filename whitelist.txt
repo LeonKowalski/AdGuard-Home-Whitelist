@@ -232,6 +232,7 @@
 @@||johnrosen1.com^$important
 @@||polderke.com^$important
 @@||gvt1.com^$important
+@@||gvt2.com^$important
 @@||beacons.gcp.gvt2.com^$important
 @@||beacons.gvt2.com^$important
 @@||pow7.com^$important
@@ -433,6 +434,7 @@
 @@||cdn.arcgis.com^$important
 @@||js.arcgis.com^$important
 @@||www.arcgis.com^$important
+@@||digitalassetlinks.googleapis.com^$important
 @@||oauth2.googleapis.com^$important
 @@||infinitedata-pa.googleapis.com^$important
 @@||photosdata-pa.googleapis.com^$important
