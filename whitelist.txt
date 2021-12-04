@@ -275,6 +275,7 @@
 @@||information.tv5monde.com^$important
 @@||snu.lge.com^$important
 @@||www.laculturegenerale.com^$important
+@@||timeline.google.com^$important
 @@||chat-pa.clients6.google.com^$important
 @@||translate.google.com^$important
 @@||mtalk.google.com^$important
