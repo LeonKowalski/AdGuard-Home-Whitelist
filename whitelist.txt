@@ -231,16 +231,7 @@
 @@||tr.cili001.com^$important
 @@||johnrosen1.com^$important
 @@||polderke.com^$important
-@@||r2---sn-w5nuxa-2tm6.gvt1.com^$important
-@@||r5---sn-w5nuxa-2tm6.gvt1.com^$important
-@@||r6---sn-w5nuxa-2tm6.gvt1.com^$important
-@@||r4---sn-w5nuxa-2tmd.gvt1.com^$important
-@@||r8---sn-w5nuxa-2tmd.gvt1.com^$important
-@@||r7---sn-w5nuxa-2tms.gvt1.com^$important
-@@||r1---sn-w5nuxa-2tmz.gvt1.com^$important
-@@||r2---sn-w5nuxa-2tmz.gvt1.com^$important
-@@||r4---sn-w5nuxa-2tmz.gvt1.com^$important
-@@||r6---sn-w5nuxa-2tmz.gvt1.com^$important
+@@||gvt1.com^$important
 @@||beacons.gcp.gvt2.com^$important
 @@||beacons.gvt2.com^$important
 @@||pow7.com^$important
