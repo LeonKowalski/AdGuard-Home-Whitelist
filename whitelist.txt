@@ -94,6 +94,8 @@
 @@||public.publictracker.xyz^$important
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
+
+@@||portal.fb.com^$important
 @@||bangkokair.com^$important
 @@||nypost.com^$important
 @@||white-desert.com^$important
