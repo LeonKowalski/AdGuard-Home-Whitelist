@@ -95,6 +95,7 @@
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
+@@||googleapis.com^$important
 @@||roularta.be^$important
 @@||knack.be^$important
 @@||portal.fb.com^$important
