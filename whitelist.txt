@@ -95,6 +95,8 @@
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
+@@||connman.net^$important
+@@||ntp.org^$important
 @@||akamaized.net^$important
 @@||investopedia.com^$important
 @@||googleapis.com^$important
