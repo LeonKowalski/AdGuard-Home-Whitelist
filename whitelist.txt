@@ -99,7 +99,7 @@
 @@||irc.irchighway.net^$important
 @@||www.samsung.com^$important
 @@||kasikornbank.com^$important
-@@||sync.services.mozilla.com^$important
+@@||mozilla.org^$important
 @@||bmw-motorrad.co.th^$important
 @@||connman.net^$important
 @@||ntp.org^$important
@@ -157,7 +157,6 @@
 @@||fr.m.wikipedia.org^$important
 @@||fr.wikipedia.org^$important
 @@||www.wikipedia.org^$important
-@@||incoming.telemetry.mozilla.org^$important
 @@||api.themoviedb.org^$important
 @@||image.tmdb.org^$important
 @@||en.m.wikivoyage.org^$important
@@ -254,7 +253,6 @@
 @@||amdc.lazada.com^$important
 @@||a.thumbs.redditmedia.com^$important
 @@||c.thumbs.redditmedia.com^$important
-@@||token.services.mozilla.com^$important
 @@||www.atlasobscura.com^$important
 @@||fr.thaivisa.com^$important
 @@||api.amazonalexa.com^$important
@@ -566,7 +564,7 @@
 @@||zephir.monocul.us^$important
 @@||secure.accorhotels.ws^$important
 @@||g20xlwdztc-dsn.algolia.net^$important
-@@||img-getpocket.cdn.mozilla.net^$important
+@@|mozilla.net^$important
 @@||mail2.zelenaya.net^$important
 @@||sonyglobal.d1.sc.omtrdc.net^$important
 @@||th-live-05.slatic.net^$important
