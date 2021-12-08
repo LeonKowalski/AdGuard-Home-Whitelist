@@ -95,6 +95,7 @@
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
+@@||kasikornbank.com^$important
 @@||sync.services.mozilla.com^$important
 @@||bmw-motorrad.co.th^$important
 @@||connman.net^$important
