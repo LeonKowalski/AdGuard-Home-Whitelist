@@ -107,7 +107,6 @@
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
-@@||rockstargames.com^$important
 @@||irc.irchighway.net^$important
 @@||www.samsung.com^$important
 @@||kasikornbank.com^$important
