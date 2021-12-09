@@ -107,6 +107,8 @@
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
+
+@@||identrust.com^$important
 @@||samsungcloudsolution.com^$important
 @@||irc.irchighway.net^$important
 @@||www.samsung.com^$important
