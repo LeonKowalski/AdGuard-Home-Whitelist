@@ -7,6 +7,17 @@
 
 # TORRENT TRACKERS
 # @@||^$important
+@@||sd-161673.dedibox.fr^$important
+@@||dpiui.reedlan.com^$important
+@@||retracker.akado-ural.ru^$important
+@@||tracker.blacksparrowmedia.net^$important
+@@||rutorrent.frontline-mod.com^$important
+@@||61626c.net^$important
+@@||tracker.zum.bi^$important
+@@||teamspeak.value-wolf.org^$important
+@@||tracker.publictracker.xyz^$important
+@@||tracker.zum.bi^$important
+@@||tracker.publictracker.xyz^$important
 @@||tracker.cypherpunks.ru^$important
 @@||tracker4.piratux.com^$important
 @@||tracker.eddie4.nl^$important
