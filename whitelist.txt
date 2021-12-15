@@ -7,6 +7,11 @@
 
 # TORRENT TRACKERS
 # @@||^$important
+@@||publictracker.ch^$important
+@@||tracker.kamigami.org^$important
+@@||publictracker.xyz^$important
+@@||tracker.sakurato.xyz^$important
+@@||tracker2.indowebster.com^$important
 @@||chanchan.uchuu.co.uk^$important
 @@||sd-161673.dedibox.fr^$important
 @@||dpiui.reedlan.com^$important
