@@ -61,8 +61,8 @@
 @@||tracker.zemoj.com^$important
 @@||tracker.vraphim.com^$important
 @@||t.nyaatracker.com^$important
-@@||open.acgtracker.com^$important
-@@||open.acgnxtracker.com^$important
+#@@||open.acgtracker.com^$important
+#@@||open.acgnxtracker.com^$important
 @@||tracker.loadbt.com^$important
 @@||tracker3.itzmx.com^$important
 @@||tracker0.ufibox.com^$important
