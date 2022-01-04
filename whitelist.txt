@@ -7,7 +7,9 @@
 
 # TORRENT TRACKERS
 # @@||^$important
-@@||debian.map.fastlydns.net^$important
+@@||wikiquote.org^$important
+@@||uploadvr.com^$important
+@@||fastlydns.net^$important
 @@||opensuse.org^$important
 @@||debian.org^$important
 @@||docker.com^$important
