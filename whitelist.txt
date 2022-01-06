@@ -7,15 +7,7 @@
 
 # TORRENT TRACKERS
 # @@||^$important
-@@||github.com^$important
-@@||lutris.net^$important
-@@||discord.com^$important
-@@||wikiquote.org^$important
-@@||uploadvr.com^$important
-@@||fastlydns.net^$important
-@@||opensuse.org^$important
-@@||debian.org^$important
-@@||docker.com^$important
+
 @@||publictracker.ch^$important
 @@||tracker.kamigami.org^$important
 @@||publictracker.xyz^$important
@@ -121,7 +113,15 @@
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
-
+@@||github.com^$important
+@@||lutris.net^$important
+@@||discord.com^$important
+@@||wikiquote.org^$important
+@@||uploadvr.com^$important
+@@||fastlydns.net^$important
+@@||opensuse.org^$important
+@@||debian.org^$important
+@@||docker.com^$important
 @@||identrust.com^$important
 @@||samsungcloudsolution.com^$important
 @@||irc.irchighway.net^$important
