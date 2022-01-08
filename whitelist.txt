@@ -113,6 +113,10 @@
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
+@@||router.utorrent.com^$important
+@@||dht.transmissionbt.com^$important
+@@||router.bitcomet.com^$important
+@@||dht.aelitis.com^$important
 @@||github.com^$important
 @@||lutris.net^$important
 @@||discord.com^$important
