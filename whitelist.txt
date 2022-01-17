@@ -8,6 +8,7 @@
 # TORRENT TRACKERS
 # @@||^$important
 
+@@||omdbapi.com^$important
 @@||publictracker.ch^$important
 @@||tracker.kamigami.org^$important
 @@||publictracker.xyz^$important
