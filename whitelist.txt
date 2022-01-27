@@ -4,7 +4,7 @@
 
 # Step 2) Move all lines containing keyword 'tracker' to top of file:
 #   :v/tracker/normal ddGp
-
+f
 # TORRENT TRACKERS
 # @@||^$important
 
@@ -115,6 +115,8 @@
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
+
+@@||nabucasa.com^$important
 @@||importyeti.com^$important
 @@||moonlight-stream.org^$important
 @@||snapcraft.io^$important
