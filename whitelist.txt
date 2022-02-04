@@ -115,6 +115,7 @@ f
 @@||us-tracker.publictracker.xyz^$important
 @@||tracker.zerobytes.xyz^$important
 
+@@||lm.facebook.com^$important
 @@||home-assistant.io^$important
 @@||nabucasa.com^$important
 @@||importyeti.com^$important
